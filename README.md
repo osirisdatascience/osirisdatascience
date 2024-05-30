@@ -51,10 +51,13 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
       <img align="center" alt="Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+      <img align="center" alt="PowerBI" height="25" width="90" src="https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=microsoft&logoColor=red">
       <img align="center" alt="SQL" height="30" width="90" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
       <img align="center" alt="NoSQL" height="30" width="90" src="https://img.shields.io/badge/NoSQL-4A4A55?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img align="center" alt="Docker" height="30" width="90" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
+      <img align="center" alt="Linux" height="30" width="90" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux">
       <img align="center" alt="Airflow" height="30" width="90" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
-      <img align="center" alt="Kafka" height="30" width="90" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+      <img align="center" alt="Kafka" height="35" width="130" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
       <img align="center" alt="Airbyte" height="30" width="90" src="https://img.shields.io/badge/Airbyte-008CE3?style=for-the-badge&logo=airbyte&logoColor=white">
       <img align="center" alt="DBT" height="30" width="90" src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
       <img align="center" alt="ClickHouse" height="30" width="90" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black">
@@ -65,6 +68,8 @@
       <img align="center" alt="Bash" height="30" width="90" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
       <img align="center" alt="REST APIs" height="30" width="90" src="https://img.shields.io/badge/REST%20APIs-008FC7?style=for-the-badge&logo=api&logoColor=white">
       <img align="center" alt="Selenium" height="30" width="90" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+      <img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5">
+    
   </div>
 
   
