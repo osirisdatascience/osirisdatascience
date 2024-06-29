@@ -9,7 +9,8 @@
   - I'm Osiris! A passionate Data Science student from Fortaleza - CE - Brazil.
 </p>
 </p>
-  - I am a 4th semester Systems Analysis and Development student who works as a Data Analyst Intern at a Fintech called M7 Investiments and Financial Solutions.
+  - I am a 4th semester Systems Analysis and Development student who is fascinated by Data, Automations and AI.
+
   </p>
 
 
