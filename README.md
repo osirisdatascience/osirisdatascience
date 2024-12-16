@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  - I'm Osiris! A passionate Data Science student from Fortaleza - CE - Brazil.
+  - I'm Osiris! A passionate Data Science student from Brazil.
 </p>
 </p>
   - I am a Systems Analysis and Development graduated who is fascinated by Data, Automations and AI.
@@ -46,21 +46,21 @@
     <p>Data handling and processing | SQL / NoSQL data migration.</p>
     <p>Complex queries with SQL Server | Management of SQL views for optimization in SQL Server.</p>
     <p>Data extraction and import | Data integration via APIs</p>
+    <p>Development of consumption routines and manipulation of spreadsheets, xlsx, PDF, txt and XML</p>
+    <p>Administration of database management systems.</p>
   </div>
   
 ## 🔥 Tools 
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
       <img align="center" alt="Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-      <img align="center" alt="PowerBI" height="25" width="90" src="https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=microsoft&logoColor=red">
       <img align="center" alt="SQL" height="30" width="90" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
       <img align="center" alt="NoSQL" height="30" width="90" src="https://img.shields.io/badge/NoSQL-4A4A55?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img align="center" alt="Docker" height="30" width="90" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
-      <img align="center" alt="Linux" height="30" width="90" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux">
       <img align="center" alt="Airflow" height="30" width="90" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
       <img align="center" alt="Kafka" height="35" width="130" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
-      <img align="center" alt="Airbyte" height="30" width="90" src="https://img.shields.io/badge/Airbyte-008CE3?style=for-the-badge&logo=airbyte&logoColor=white">
-      <img align="center" alt="DBT" height="30" width="90" src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white">
+      <img align="center" alt="PowerBI" height="25" width="90" src="https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=microsoft&logoColor=red">
+      <img align="center" alt="Docker" height="30" width="90" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
+      <img align="center" alt="Linux" height="30" width="90" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux">
       <img align="center" alt="ClickHouse" height="30" width="90" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black">
       <img align="center" alt="Redis" height="30" width="90" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
       <img align="center" alt="AWS" height="30" width="90" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
