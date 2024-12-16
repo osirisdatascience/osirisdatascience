@@ -9,7 +9,7 @@
   - I'm Osiris! A passionate Data Science student from Fortaleza - CE - Brazil.
 </p>
 </p>
-  - I am a 5th semester Systems Analysis and Development student who is fascinated by Data, Automations and AI.
+  - I am a Systems Analysis and Development graduated who is fascinated by Data, Automations and AI.
 
   </p>
 
