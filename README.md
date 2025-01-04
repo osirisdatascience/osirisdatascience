@@ -17,11 +17,8 @@
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
-</p>
-  I studied Engineering at the Federal University of Ceará, and in the end of the second year of the course I embarked on an exchange experience in Canada :canada: for a few months to improve my English skills, and when I returned 
-  I realized that my place was in technology, so I interrupted my degree, which was in progress, to follow this great desire to build impactful solutions through technology  </p>
-
- I aim to deepen my knowledge to boost my performance in the corporate context which I work, as well as to further qualify myself in the data field, especially in Data Science with Machine Learning and Data Engineering with Big Data, which are areas I dedicate my time and commitment in.
+Data and Automation Professional, recently graduated in Systems Analysis and Development with experience in collection, integration, manipulation, ingestion and storage of data, RPA development, Web Scraping and ETL processes using agile methodologies. Pre-advanced English level and a lot of curiosity to achieve new goals.
+Driven by new challenges and new technologies, collaborating with all teams and stakeholders of all levels and roles. Committed to operational excellence and innovation, constantly seeking opportunities to improve processes and add value to the business.
 </details>
 
 <!-- Links -->
@@ -39,7 +36,7 @@
 ## 🔥 Experiences and Skills
 <!-- Sklls: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <p>Management of DAGs in Apache Airflow with Python | Automations using Python, SQL and various APIs.</p>
+    <p>Development of Python scripts for data management and manipulation with object orientation and versioning</p>
     <p>RPA development with Python Selenium | Web Scraping | Data collection | Data Mining</p>
     <p>Extraction Transformation and Load (ETL Processes) | Orchestration of data pipelines and data ingestions</p>
     <p>Python integration with CRM for internal automations.</p>
